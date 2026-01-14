@@ -31,7 +31,7 @@ pip install numpy ase scipy joblib tqdm
 ## Usage
 
 ```bash
-python remove_waters.py input.xyz output.xyz --n-remove 100 --n-jobs 4  --hoh-angle-min 90 --hoh-angle-max 125
+python remove_waters.py input.xyz output.xyz --n-remove 100 --n-jobs 4  --hoh-angle-min 88 --hoh-angle-max 125
 ```
 
 ### Arguments
