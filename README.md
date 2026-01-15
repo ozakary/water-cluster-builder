@@ -62,4 +62,4 @@ python remove_waters.py trajectory.xyz cluster.xyz --n-remove 500 --n-jobs 8
 Ideal for preparing molecular clusters for:
 - Quantum mechanical calculations (QM/MM)
 - NMR parameter calculations
-- Guest-host system analysis in porous materials
+- Guest-host system analysis in porous materials and biosensor systems
