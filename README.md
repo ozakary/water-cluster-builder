@@ -63,3 +63,6 @@ Ideal for preparing molecular clusters for:
 - Quantum mechanical calculations (QM/MM)
 - NMR parameter calculations
 - Guest-host system analysis in porous materials and biosensor systems
+
+---
+For further details, please refer to the respective folders or contact the author via the provided email.
